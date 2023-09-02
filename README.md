@@ -1,1 +1,1 @@
-# Diffusion-models-based-on-Langevin-Dynamics-and-Anealed-Langevin-Dynamics-
+# A simple diffusion model for better understanding of score matching
